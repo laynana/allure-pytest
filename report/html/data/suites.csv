@@ -1,0 +1,7 @@
+"Status","Name","Duration in ms","Description"
+"passed","scripet.test_all.Test_allure.test_av","0",""
+"passed","scripet.test_all.Test_allure.test_an","0",""
+"passed","scripet.test_all.Test_allure.test_ai","15",""
+"passed","scripet.test_all.Test_allure.test_ab","0",""
+"passed","scripet.test_all.Test_allure.test_aj","0",""
+"failed","scripet.test_all.Test_allure.test_al","47",""

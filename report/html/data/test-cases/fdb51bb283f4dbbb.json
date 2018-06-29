@@ -1,0 +1,66 @@
+{
+  "uid" : "fdb51bb283f4dbbb",
+  "name" : "Test_allure.test_al",
+  "fullName" : "scripet.test_all.Test_allure.test_al",
+  "historyId" : "2bc17ea6ad894bef74e206cfda68bfd2",
+  "time" : {
+    "start" : 1530275683832,
+    "stop" : 1530275683879,
+    "duration" : 47
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 0",
+  "statusTrace" : "self = <scripet.test_all.Test_allure object at 0x000001FF7E3DB4E0>\n\n    def test_al(self):\n>       assert 0\nE       assert 0\n\nscripet\\test_all.py:7: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-2H2OKT8Q"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7608-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripet.test_all"
+  }, {
+    "name" : "testClass",
+    "value" : "scripet.test_all"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_allure.test_al"
+  }, {
+    "name" : "package",
+    "value" : "scripet.test_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "fdb51bb283f4dbbb.json",
+  "parameterValues" : [ ]
+}

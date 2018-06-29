@@ -1,0 +1,60 @@
+{
+  "uid" : "d6085ad8efe7e3f",
+  "name" : "Test_allure.test_av",
+  "fullName" : "scripet.test_all.Test_allure.test_av",
+  "historyId" : "c0e1be851845a781f7c8362e59bdf329",
+  "time" : {
+    "start" : 1530275683879,
+    "stop" : 1530275683879,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-2H2OKT8Q"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7608-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripet.test_all"
+  }, {
+    "name" : "testClass",
+    "value" : "scripet.test_all"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_allure.test_av"
+  }, {
+    "name" : "package",
+    "value" : "scripet.test_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d6085ad8efe7e3f.json",
+  "parameterValues" : [ ]
+}

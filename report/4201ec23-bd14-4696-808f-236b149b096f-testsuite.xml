@@ -1,0 +1,88 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1530275683817" stop="1530275683879">
+  <name>scripet.test_all</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1530275683817" status="passed" stop="1530275683832">
+      <name>Test_allure.test_ai</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7608-MainThread"/>
+        <label name="host" value="LAPTOP-2H2OKT8Q"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1530275683832" status="passed" stop="1530275683832">
+      <name>Test_allure.test_aj</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7608-MainThread"/>
+        <label name="host" value="LAPTOP-2H2OKT8Q"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1530275683832" status="failed" stop="1530275683879">
+      <name>Test_allure.test_al</name>
+      <failure>
+        <message>AssertionError: assert 0</message>
+        <stack-trace>self = &lt;scripet.test_all.Test_allure object at 0x000001FF7E3DB4E0&gt;
+
+    def test_al(self):
+&gt;       assert 0
+E       assert 0
+
+scripet\test_all.py:7: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7608-MainThread"/>
+        <label name="host" value="LAPTOP-2H2OKT8Q"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1530275683879" status="passed" stop="1530275683879">
+      <name>Test_allure.test_ab</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7608-MainThread"/>
+        <label name="host" value="LAPTOP-2H2OKT8Q"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1530275683879" status="passed" stop="1530275683879">
+      <name>Test_allure.test_av</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7608-MainThread"/>
+        <label name="host" value="LAPTOP-2H2OKT8Q"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1530275683879" status="passed" stop="1530275683879">
+      <name>Test_allure.test_an</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7608-MainThread"/>
+        <label name="host" value="LAPTOP-2H2OKT8Q"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

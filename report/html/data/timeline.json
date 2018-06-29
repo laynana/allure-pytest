@@ -1,0 +1,85 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-2H2OKT8Q",
+    "children" : [ {
+      "name" : "7608-MainThread",
+      "children" : [ {
+        "name" : "Test_allure.test_av",
+        "uid" : "d6085ad8efe7e3f",
+        "parentUid" : "4cc190a4fd4adc03a30aab41667779eb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1530275683879,
+          "stop" : 1530275683879,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test_allure.test_an",
+        "uid" : "fb643fe19f2717bf",
+        "parentUid" : "4cc190a4fd4adc03a30aab41667779eb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1530275683879,
+          "stop" : 1530275683879,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test_allure.test_ai",
+        "uid" : "7dacd040de4c7a2c",
+        "parentUid" : "4cc190a4fd4adc03a30aab41667779eb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1530275683817,
+          "stop" : 1530275683832,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test_allure.test_ab",
+        "uid" : "bcf4d170e0e29da5",
+        "parentUid" : "4cc190a4fd4adc03a30aab41667779eb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1530275683879,
+          "stop" : 1530275683879,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test_allure.test_aj",
+        "uid" : "95a69c9835ace153",
+        "parentUid" : "4cc190a4fd4adc03a30aab41667779eb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1530275683832,
+          "stop" : 1530275683832,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test_allure.test_al",
+        "uid" : "fdb51bb283f4dbbb",
+        "parentUid" : "4cc190a4fd4adc03a30aab41667779eb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1530275683832,
+          "stop" : 1530275683879,
+          "duration" : 47
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4cc190a4fd4adc03a30aab41667779eb"
+    } ],
+    "uid" : "da12b360e6d2bf3051b4f1daf07b5f6d"
+  } ]
+}
